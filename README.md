@@ -5,7 +5,7 @@
 
 <!-- Hiệu ứng gõ chữ nhiều màu -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=👋+Xin+chào,+mình+là+Khanh;💻+Frontend+Developer;🚀+ReactJS+%7C+Redux+Toolkit+%7C+Tailwind;🌱+Học+Tiếng+Nhật+N5;✨+Luôn+học+hỏi+mỗi+ngày" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=👋HI...;💻+Frontend+Developer;🚀+ReactJS+%7C+Redux+Toolkit+%7C+Tailwind;✨+Luôn+học+hỏi+mỗi+ngày" alt="Typing SVG" />
 </h3>
 
 ---
