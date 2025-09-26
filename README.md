@@ -63,10 +63,11 @@
 
 ---
 
-## 🌌 GitHub Skyline
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/username/username/blob/main/skyline.gif" alt="GitHub Skyline" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khanhh89&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
