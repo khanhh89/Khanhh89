@@ -56,9 +56,9 @@
 
 ---
 
-## 🐍 GitHub Snake
+## 🌌 GitHub Skyline
 <p align="center">
-  <img src="https://github.com/khanhh89/khanhh89/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/username/username/blob/main/skyline.gif" alt="GitHub Skyline" />
 </p>
 
 ---
