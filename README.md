@@ -21,13 +21,13 @@
 💡 Strong interest in **UI/UX design and performance optimization**  
 🤝 Open to collaborating on **innovative projects**  
 🎮 Outside of coding: I enjoy **gaming, traveling, and music** 🎶  
-
-    
-  </tr>
   </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
     </td>
+    
+  </tr>
+
 </table>
 
 ---
