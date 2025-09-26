@@ -15,18 +15,19 @@
   <tr>
     <td width="60%">
       
-🌍 From **Vietnam 🇻🇳**  
-🚀 Specialized in **Frontend Development** (ReactJS, Redux Toolkit, TailwindCSS)  
-💡 Passionate about building **smooth UI/UX & optimized performance**  
-🌱 Currently learning: **Backend + Cloud Services + DevOps**  
-🎯 Goal: Becoming a **Fullstack Developer**  
-⚡ Fun fact: When not coding, I enjoy playing music 🎶 or gaming 🎮  
+✨ Passionate **Software Engineer** who loves turning ideas into reality  
+🚀 Focused on building **modern, scalable web applications**  
+🌱 Exploring **Cloud Computing, DevOps, and Backend Development**  
+💡 Strong interest in **UI/UX design and performance optimization**  
+🤝 Open to collaborating on **innovative projects**  
+🎮 Outside of coding: I enjoy **gaming, traveling, and music** 🎶  
 
-    </td>
+    
+  </tr>
+  </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
     </td>
-  </tr>
 </table>
 
 ---
