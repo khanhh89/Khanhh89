@@ -27,11 +27,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Coding Vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhh89&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhh89&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhh89&layout=compact&theme=tokyonight&hide_border=true"/>
