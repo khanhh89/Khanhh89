@@ -11,12 +11,24 @@
 ---
 
 ## 💫 About Me
+<table>
+  <tr>
+    <td width="60%">
+      
 🌍 Mình đến từ **Việt Nam 🇻🇳**  
 🚀 Chuyên về **Frontend Development** (ReactJS, Redux Toolkit, TailwindCSS)  
 💡 Thích tạo ra sản phẩm **UI/UX mượt mà & tối ưu hiệu suất**  
 🌱 Đang học thêm: **Backend + Cloud Services + DevOps**  
 🎯 Mục tiêu: Trở thành **Fullstack Developer**  
 ⚡ Fun fact: Khi không code thì mình chơi nhạc 🎶 hoặc gaming 🎮  
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -56,10 +68,7 @@
 
 ---
 
-## 🌌 GitHub Skyline
-<p align="center">
-  <img src="https://github.com/username/username/blob/main/skyline.gif" alt="GitHub Skyline" />
-</p>
+
 
 ---
 
