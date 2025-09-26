@@ -5,14 +5,35 @@
 
 <!-- Hiệu ứng gõ chữ nhiều màu -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=👋HI...;💻+Frontend+Developer;🚀+ReactJS+%7C+Redux+Toolkit+%7C+Tailwind;✨+Luôn+học+hỏi+mỗi+ngày" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=700&lines=👋HI,+I'm+Khanh+Dao;💻+Frontend+Developer;🚀+ReactJS+%7C+Redux+Toolkit+%7C+Tailwind;✨+Always+Learning+New+Things" alt="Typing SVG" />
 </h3>
 
 ---
 
+## 👨‍💻 Về mình
+- 🌱 Hiện tại: Sinh viên ngành **Công nghệ thông tin**  
+- 💻 Hướng phát triển: **Frontend Developer** (ReactJS, Redux, TailwindCSS)  
+- 🚀 Đam mê: Xây dựng ứng dụng web, UI/UX và học hỏi công nghệ mới  
+- 🎯 Mục tiêu: Trở thành **Fullstack Developer** trong tương lai  
+- ⚡ Fun fact: Thích chơi nhạc 🎶, nấu ăn 🍳 và du lịch ✈️  
+
+---
+
 ## 🛠️ Tech Stack
+
+### 🚀 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,html,css,git,github,vscode,mysql,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,vite" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,java" />
+</p>
+
+### 🛠️ Tools & Others  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
@@ -25,6 +46,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhh89&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanhh89&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -44,6 +69,13 @@
   <a href="https://github.com/khanhh89/online-learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhh89&repo=online-learning&theme=tokyonight" />
   </a>
+</p>
+
+---
+
+## ✍️ Quote yêu thích
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
